@@ -1,5 +1,0 @@
-Máscara de Redes VLSM
-Muitos caso quando se divide uma rede apenas com CIDR se disperdissa muitos ips possiveis para ser usados isso pode ser corrigido pelo VLSM Ex:
-No caso em que eu precise de uma rede com 2, 10, e 50 hosts poderia ser divido
-
-|Requisitos|Calculo|Máscara|
