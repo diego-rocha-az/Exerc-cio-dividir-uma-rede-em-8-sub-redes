@@ -1,0 +1,7 @@
+#Divisão de redes VLSM
+
+
+Dividindo redes VLSM
+1 Ordem de Tamanho:Liste todos os requisitos do maior para o menor 
+2 Calcular o Maior:Calcule a mascara de CIDR da sub-rede com maior numero de hosts
+3 Calcule de maneira decresente: Calcule a mascara de CIDR de maneira decresente 
